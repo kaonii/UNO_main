@@ -10,6 +10,7 @@ public class Player {
     public Player(String name) {
         this.name = name;
         this.point = 0;
+//        this.hand = new ArrayList<>();
     }
 
 
